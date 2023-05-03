@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Turned all the redundant header classes used with <div> into a header element with element selectors */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -81,6 +83,7 @@ p {
     background-color: #2589bd;    
 }
 
+/*Combined the benefit classes into 1 class */
 .benefit{
     margin-bottom: 32px;
     color: #ffffff;
@@ -97,6 +100,7 @@ p {
     max-width: 150px;
 }
 
+/*Combined the re occuring benefit classes into 1 class */
 .service {
     margin-bottom: 20px;
     padding: 50px;
