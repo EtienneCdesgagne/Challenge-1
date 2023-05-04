@@ -18,6 +18,6 @@ NA
 Download Index.Html file and assets folder
 Run index.HTML
 
-Original Starter Code located at https://github.com/EtienneCdesgagne/Week-1-Challenge-Repo/tree/main/Source%20Code%20for%20Week%201%20challenge/02-Challenge
+Original Starter Code located at https://github.com/EtienneCdesgagne/Week-1-Challenge-Repo/tree/main/Source%20Code%20for%20Week%201%20challenge
 
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
