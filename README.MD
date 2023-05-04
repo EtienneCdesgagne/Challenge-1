@@ -8,6 +8,16 @@ This project is to go through an HTML&CSS file and refactor it due to bugs and o
 
 The main changes i made, were transforming several classes that changed the same single element into 1 classe i could re-use for different elements i wanted to style, Changing HTML semantic names from Div to different ones to differentiate segments of the HTML page. Fixing a couple issues with the webpage that caused links to work improperly. And removing code that had no function.
 
+
+## Installation
+
+NA
+
+## Usage 
+
+Download Index.Html file and assets folder
+Run index.HTML
+
 Original Starter Code located at https://github.com/EtienneCdesgagne/Week-1-Challenge-Repo/tree/main/Source%20Code%20for%20Week%201%20challenge/02-Challenge
 
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
